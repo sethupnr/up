@@ -1,7 +1,7 @@
 [
   {
     "name": "Beta",
-    "url": "https://fcbeta.tpconnects.online/api/parent-settings",
+    "url": "https://fcbeta.tpconnects.online/api/get_host_logo",
     "icon": "https://icons.duckduckgo.com/ip3/fcbeta.tpconnects.online.ico",
     "slug": "beta",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 565,
-    "timeWeek": 565,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "time": 676,
+    "timeDay": 676,
+    "timeWeek": 676,
+    "timeMonth": 676,
+    "timeYear": 676,
     "dailyMinutesDown": {}
   }
 ]
