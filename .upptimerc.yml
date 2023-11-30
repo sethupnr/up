@@ -7,6 +7,10 @@ sites:
     url: https://fcbeta.tpconnects.online/api/get_host_logo
     method: POST
 
+  - name: PUM
+    url: https://aggregator.tpconnects.online/api/get_host_logo
+    method: POST
+
     
 
 status-website:
