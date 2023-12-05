@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 543,
-    "timeWeek": 591,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "time": 609,
+    "timeDay": 755,
+    "timeWeek": 609,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,19 @@
     "url": "https://aggregator.tpconnects.online/api/get_host_logo",
     "icon": "https://icons.duckduckgo.com/ip3/aggregator.tpconnects.online.ico",
     "slug": "pum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 563,
-    "timeWeek": 632,
-    "timeMonth": 632,
-    "timeYear": 632,
-    "dailyMinutesDown": {}
+    "time": 651,
+    "timeDay": 699,
+    "timeWeek": 651,
+    "timeMonth": 651,
+    "timeYear": 651,
+    "dailyMinutesDown": {
+      "2023-12-05": 0
+    }
   }
 ]
