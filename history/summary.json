@@ -4,18 +4,20 @@
     "url": "https://fcbeta.tpconnects.online/api/get_host_logo",
     "icon": "https://icons.duckduckgo.com/ip3/fcbeta.tpconnects.online.ico",
     "slug": "beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 783,
-    "timeWeek": 723,
-    "timeMonth": 766,
-    "timeYear": 766,
-    "dailyMinutesDown": {}
+    "time": 753,
+    "timeDay": 592,
+    "timeWeek": 682,
+    "timeMonth": 753,
+    "timeYear": 753,
+    "dailyMinutesDown": {
+      "2023-12-21": 0
+    }
   },
   {
     "name": "PUM",
