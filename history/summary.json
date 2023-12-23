@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fcbeta.tpconnects.online.ico",
     "slug": "beta",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "98.77%",
+    "uptime": "99.95%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 746,
-    "timeDay": 572,
-    "timeWeek": 629,
-    "timeMonth": 746,
-    "timeYear": 746,
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 747,
+    "timeDay": 764,
+    "timeWeek": 627,
+    "timeMonth": 747,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2023-12-21": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 756,
-    "timeDay": 764,
-    "timeWeek": 821,
-    "timeMonth": 756,
-    "timeYear": 756,
+    "time": 755,
+    "timeDay": 738,
+    "timeWeek": 818,
+    "timeMonth": 755,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2023-12-05": 20
     }
