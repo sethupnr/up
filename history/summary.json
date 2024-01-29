@@ -4,7 +4,7 @@
     "url": "https://fcbeta.tpconnects.online/api/get_host_logo",
     "icon": "https://icons.duckduckgo.com/ip3/fcbeta.tpconnects.online.ico",
     "slug": "beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 653,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2024-01-29": 0,
       "2024-01-04": 18,
       "2023-12-21": 18
     }
@@ -26,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aggregator.tpconnects.online.ico",
     "slug": "pum",
     "status": "up",
-    "uptime": "96.39%",
+    "uptime": "96.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.96%",
-    "uptimeYear": "96.39%",
+    "uptimeYear": "96.43%",
     "time": 887,
     "timeDay": 875,
     "timeWeek": 733,
