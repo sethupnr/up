@@ -27,7 +27,7 @@
     "url": "https://aggregator.tpconnects.online/api/get_host_logo",
     "icon": "https://icons.duckduckgo.com/ip3/aggregator.tpconnects.online.ico",
     "slug": "pum",
-    "status": "up",
+    "status": "down",
     "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 1069,
     "timeYear": 951,
     "dailyMinutesDown": {
+      "2024-02-29": 0,
       "2024-02-01": 169,
       "2024-01-12": 714,
       "2024-01-11": 1440,
