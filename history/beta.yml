@@ -1,7 +1,7 @@
 url: https://fcbeta.tpconnects.online/api/get_host_logo
-status: down
-code: 502
-responseTime: 685
-lastUpdated: 2024-03-21T07:42:01.087Z
+status: up
+code: 200
+responseTime: 495
+lastUpdated: 2024-03-21T07:51:01.162Z
 startTime: 2023-11-29T17:55:45.508Z
 generator: Upptime <https://github.com/upptime/upptime>
