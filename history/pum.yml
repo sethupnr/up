@@ -1,7 +1,7 @@
 url: https://aggregator.tpconnects.online/api/get_host_logo
-status: down
-code: 502
-responseTime: 3681
-lastUpdated: 2024-03-21T11:56:04.576Z
+status: up
+code: 200
+responseTime: 528
+lastUpdated: 2024-03-21T12:22:06.834Z
 startTime: 2023-11-30T07:37:28.814Z
 generator: Upptime <https://github.com/upptime/upptime>
